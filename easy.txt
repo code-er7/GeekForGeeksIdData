@@ -1,0 +1,75 @@
+Pattern 2
+Pattern 1
+Pass by Reference and Value
+Pattern 4
+Pattern 12
+Pattern 14
+Pattern 15
+Pattern 16
+Pattern 17
+Pattern 18
+Power Set
+Pattern 19
+Pattern 20
+Pattern 21
+Pattern 22
+Print GFG n times
+Print N to 1 without loop
+Sum of all divisors from 1 to n
+Palindrome String
+Selection Sort
+Identify Complexity
+Check if array is sorted
+Bubble Sort
+Insertion Sort
+Number of 1 Bits
+Two Dimensional World
+Maximum no of 1's row
+Count the Zeros
+Anagram
+Non Repeating Character
+Search in a matrix
+Reverse words in a given string
+Remove Duplicates
+Missing number in array
+Wave Array
+Unique rows in boolean matrix
+Occurence of an integer in a Linked List
+Introduction to Linked List
+Search in Linked List
+Remove duplicate element from sorted Linked List
+Delete a Node in Single Linked List
+Introduction to Doubly Linked List
+Insert in a Sorted List
+Union of Two Linked Lists
+Find the element that appears once in sorted array
+Maximize Toys
+Reverse a linked list
+Reverse both parts
+Finding middle element in a linked list
+Delete Middle of Linked List
+Sort an array of 0s, 1s and 2s
+Remove all duplicates from a given string
+Union of Two Sorted Arrays
+Find Transition Point
+Find duplicates in an array
+Move all zeroes to end of array
+Index Of an Extra Element
+Minimum indexed character
+Two Repeated Elements
+Nth node from end of linked list
+Given a linked list of 0s, 1s and 2s, sort it.
+Delete without head pointer
+Copy Set Bits in Range
+linked list of strings forms a palindrome
+Compare two linked lists
+Detect Loop in linked list
+Find the first node of loop in linked list
+Remove duplicates from an unsorted linked list
+Rearrange linked list in-place
+Find length of Loop
+Count Pairs whose sum is equal to X
+Intersection of Two Linked Lists
+Intersection of two arrays
+Merging two unsorted arrays in sorted order
+Leaders in an array

@@ -1,0 +1,31 @@
+k largest elements
+Pattern
+Kth smallest element
+Subset Sums
+Subsets
+Subset II
+Merge Sort
+Search in a row-column sorted Matrix
+Quick Sort
+Row with max 1s
+Prefix match with other strings
+CamelCase Pattern Matching
+Check if Linked List is Palindrome
+Segregate even and odd nodes in a Link List
+Find the element that appears once
+Number of occurrence
+Kth element in Matrix
+Flattening a Linked List
+Arranging the array
+K-th element of two sorted Arrays
+Majority Element
+Find element occuring once when all other are present thrice
+Searching an element in a sorted array (Ternary Search)
+Reverse a Linked List in groups of given size.
+Maximum Index
+Remove loop in Linked List
+Count the subarrays having product less than k
+Stock buy and sell II
+Merge two sorted linked lists
+Merge K sorted linked lists
+Square root of a number

@@ -1,0 +1,1 @@
+const schoolQuestions= ["chetan" , "rao " , "me" , "Armstrong Numbers"]
